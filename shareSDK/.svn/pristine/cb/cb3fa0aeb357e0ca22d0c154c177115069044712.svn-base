@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="D:\workspaceForStudio5\ElderBracelet-CN4\shareSDK\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\workspaceForStudio5\ElderBracelet-CN4\shareSDK\src\androidTest\assets"/><source path="D:\workspaceForStudio5\ElderBracelet-CN4\shareSDK\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

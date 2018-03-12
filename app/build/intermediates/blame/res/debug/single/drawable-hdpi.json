@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_selected_bg.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\alarm_selected_bg.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_open.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\switch_open.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\basic_table_up.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\basic_table_up.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_arrow_icon.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\alarm_arrow_icon.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_close.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\switch_close.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_unselected_bg.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\alarm_unselected_bg.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aache2.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\aache2.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aache1.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\aache1.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\basic_table_botton.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable-hdpi\\basic_table_botton.png"
+    }
+]

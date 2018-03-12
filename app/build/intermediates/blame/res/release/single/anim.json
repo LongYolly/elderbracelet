@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\anim\\move_left_in_activity.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_bottom.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\anim\\slide_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\anim\\move_right_in_activity.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\anim\\move_left_out_activity.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\anim\\move_right_out_activity.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    }
+]

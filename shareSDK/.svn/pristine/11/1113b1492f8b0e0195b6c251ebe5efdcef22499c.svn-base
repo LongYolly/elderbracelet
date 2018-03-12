@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "D:\\workspaceForStudio5\\ElderBracelet-CN4\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    }
+]

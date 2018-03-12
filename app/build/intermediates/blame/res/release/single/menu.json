@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\realm.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\realm.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\bar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\bar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\scatter.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\scatter.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\candle.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\candle.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\bubble.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\bubble.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\realtime.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\realtime.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\combined.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\combined.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\pie.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\pie.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\radar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\radar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\dynamical.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\dynamical.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\draw.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\draw.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\release\\menu\\line.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\menu\\line.xml"
+    }
+]

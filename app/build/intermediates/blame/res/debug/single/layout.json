@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alter_pwd.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_alter_pwd.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_barchart.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\list_item_barchart.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_advice_list.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_advice_list.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_line.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\frag_simple_line.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sleep_linechart.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_sleep_linechart.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_two.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_two.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_medicine_remind_details.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_medicine_remind_details.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_piechart.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\list_item_piechart.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_heart_rate.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_heart_rate.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_input_temp.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_input_temp.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page_second.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_home_page_second.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_pwd.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_reset_pwd.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page2.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\page2.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\title_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_push_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_push_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\page.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_regi_sex.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_regi_sex.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_distance.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_distance.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radar_markerview.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\radar_markerview.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_state.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_state.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_view2.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\title_view2.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page_first.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_home_page_first.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_step.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_step.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_advice_detail.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_advice_detail.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sleep_remind_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sleep_remind_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oxygen_history.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_oxygen_history.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_heartrate_oxygen.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_heartrate_oxygen.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sleep.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sleep.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sugar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sugar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_clock_remind_details.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_clock_remind_details.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page_one.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_home_page_one.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_search_ble.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_search_ble.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_temper_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_temper_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_remind.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_remind.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_scatter.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\frag_simple_scatter.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_regi_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_regi_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_blood_pressure.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_blood_pressure.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_sugar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_sugar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sleep_remind.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sleep_remind.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_pie.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\frag_simple_pie.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_caloria_sport_time.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_caloria_sport_time.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_oxygen.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_oxygen.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_temper.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_temper.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_clock_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_clock_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_device_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_device_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sport_history.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_sport_history.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_linechart.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\list_item_linechart.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_bar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\frag_simple_bar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_2.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\toast_2.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_medicine_remind.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_medicine_remind.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_title_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\main_title_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_register_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_register_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sport_time.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sport_time.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_presonal_three_page.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_presonal_three_page.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_kaloria.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_kaloria.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_choice_photo.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_choice_photo.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_sleep_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_sleep_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_sleep_time.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_sleep_time.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_medicin_remind_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_medicin_remind_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_presonal_two_page.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_presonal_two_page.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_heartrate_history.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_heartrate_history.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_advice_operate.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_advice_operate.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_contact_services.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_contact_services.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_marker_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_medicine_remind2.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_medicine_remind2.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_scanview.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_scanview.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_state.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_state.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_register.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_register.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_yesterday_health_data.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_yesterday_health_data.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sit_remind.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sit_remind.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_presonal_one_page.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_presonal_one_page.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_clock_remind.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_clock_remind.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_advice_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_advice_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page_third.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_home_page_third.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sos_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sos_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linechart.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_linechart.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_state_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_state_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_push_detial.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_push_detial.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_oxygen.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_oxygen.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_bound.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_bound.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_already_register.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_already_register.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_step_distance.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_step_distance.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_medicine_view.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_medicine_view.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_history_two_item.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_history_two_item.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sos.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sos.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_awesomedesign.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\activity_awesomedesign.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_health_rate.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_health_rate.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_pressure.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_pressure.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bracelet_sleep_remind_details.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\layout\\bracelet_sleep_remind_details.xml"
+    }
+]

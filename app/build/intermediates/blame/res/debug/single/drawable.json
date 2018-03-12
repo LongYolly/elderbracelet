@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hide_pwd.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\hide_pwd.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_call.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_call.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_distance.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_distance.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_calories.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_calories.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selcetor_button.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selcetor_button.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_04.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\style_04.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_img.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\common_img.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_check.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\register_check.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noti_small.jpg",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\noti_small.jpg"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radar_marker.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\radar_marker.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.jpg",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\delete.jpg"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_time.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_time.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mac.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\mac.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foot_icon.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\foot_icon.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_press_color_1.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_btn_press_color_1.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_alarm.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_alarm.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restart.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\restart.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_score_ratingbar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\xml_score_ratingbar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_normal_color_1.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_btn_normal_color_1.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset_pwd.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\reset_pwd.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_02.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\style_02.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaa.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\aaaa.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_press_selector_1.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_btn_press_selector_1.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\show_pwd.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\show_pwd.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_access_ratingbar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\xml_access_ratingbar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\open.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\open.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_progress_bar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\loading_progress_bar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_cbx_alarm_default.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_cbx_alarm_default.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_share.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_share.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_color_white.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_border_color_white.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_percent.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_percent.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_sms.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_sms.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unlock.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\unlock.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\che_style.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\che_style.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_device_face.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\selector_device_face.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_border.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\my_border.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_03.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\style_03.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\exploded-aar\\elderbracelet1110\\oneKeyShareNew\\unspecified\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_background.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\new_background.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_style.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\textview_style.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_01.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\style_01.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noti_big.jpg",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\noti_big.jpg"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\exploded-aar\\elderbracelet1110\\oneKeyShareNew\\unspecified\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_left.png",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\ic_arrow_left.png"
+    },
+    {
+        "merged": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_red.xml",
+        "source": "G:\\Android-projects\\RuYiProject\\elderbracelet1110\\app\\src\\main\\res\\drawable\\fade_red.xml"
+    }
+]

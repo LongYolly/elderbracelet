@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Twitter-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="35d39ed9e31abea6a67217264ca8c8e474d04b27">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Twitter-2.7.3_1fba22880e6b85bfdb1145cb5cefbb996bfe6781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-TencentWeibo-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fa8ebb7b1202d69ae66eddff07ee963b3c5a0754">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-TencentWeibo-2.7.3_c74297893f115eacfc54ce4bec23bbaa09554921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Line-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="07c0581c29a6ced389ab456cd33de6badd5c37cb">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Line-2.7.3_989b7386cfafe2f6de0f2c1fd624a99bc30db9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Instapaper-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e710721eb756ba8ae558419a62705c0f494459dc">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Instapaper-2.7.3_106ae12326245b7924482e4a7eb8e5217055c2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-ShortMessage-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d3fc4e6e6ca6d89da88251286fae4233bf3bb312">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-ShortMessage-2.7.3_c96047794a8bfc259c847e1b140d545aeac38cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\mpandroidchartlibrary-2-1-6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f8beaf2f9b5357717e0b1ef9f6820e517784ea1">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\mpandroidchartlibrary-2-1-6_261f8abcf6c8a1f9273b099f724e1e085cf259d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-KaiXin-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b34b16fbdda8ea4c8873e546b3acb227e0089d7">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-KaiXin-2.7.3_3ada98fac284a110159967263095d875a356f262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\android-async-http-1.4.5_5125128ba606b195fa91c9c916f2bb758a4dce4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Linkedin-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c35f4b386992440b5d5b3cac72e45c33eb4a9a55">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Linkedin-2.7.3_a7345e8db3d77c7fbb7105df4f869d4c6a188d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Alipay-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d6d959cc97ad2aafc2ea7fd9314f48bf50dd65e3">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Alipay-2.7.3_26bc68d0ca1fc3e7d22c4f7b8c1678a606c1f3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Mingdao-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45c444eafb6039eeead4c79e9bd3d0cc9b2a7877">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Mingdao-2.7.3_a122d22ba47c4f360d190d19f6b134d2e9a31336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5baa90334ae8c4eee9de262a158ae60d8e5ad6fe">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\elderbracelet1110-shareSDK-unspecified_c4d5c501ffcccf285a56f03d694c39079cf4019d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-QZone-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0cc21cf02bb0a00ea5e4dabb88400acefaa97eda">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-QZone-2.7.3_5c2f360b05e393a63269f1c79f6b474e823e6a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\oneKeyShareNew\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1b1a830bcab68b619bf8dea7901bca5f9da93ee7">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\elderbracelet1110-oneKeyShareNew-unspecified_98f21eadba8209640927d65b1636027eae66afb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-VKontakte-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1dda7ac361e4af4ced2fca89597e11786e224abb">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-VKontakte-2.7.3_722b48536eb90078c52a9b013b8e0d461a33562b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Renren-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e18ebeeae2fa86e80c0028c1ea3316183e5e515">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Renren-2.7.3_d0cd5fa0ef7fe88dd5a284824c6101e0bc11a622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Yixin-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b4a757d9265a60c50f427e1543ab87df9fc974e0">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Yixin-2.7.3_4d30bb9e1e919ea0ed5e0b68e777d6f0239fc35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-GooglePlus-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bcad704dc3e757020a2ad960d9308ae716d23a9a">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-GooglePlus-2.7.3_4000e3886f0d48b24a18de75f61d355ea6fce752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-WhatsApp-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="92ddf893d7a7605fcccd59865a9725a57b3dc834">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-WhatsApp-2.7.3_9724e82cf82ab3cfdf9ebf35377d6da2ecc57847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="897198dbefcaf0d5d7dacacf6dbde57ca2f07083">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Favorite-2.7.3_ba6d078339eb4f7121899e401b93d050229cd6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-KakaoStory-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05939176630a6011c423d65438e47392ed8d7a50">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-KakaoStory-2.7.3_10740b211b65d5ff1ddbf5135124e49e1a20e9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\MobTools-2016.0623.1641.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bef6d2640efdbf14c7063bd38ce41c54b00c50e3">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\MobTools-2016.0623.1641_1c7f1fa3715ddd2d2b72b2dc94b95de8273f4395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-SinaWeibo-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fa51fce755c399ff8d2bbce186902b60178cdcb2">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-SinaWeibo-2.7.3_be892e75e6e0b4d5bc832d9ec2b3a49845f3dbdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Instagram-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="036c4282e3070e24066e0344d3f9fd8b731046d6">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Instagram-2.7.3_178b3de1c3ff1866ea39e4decac69ea57679298b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Yixin-Moments-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c81e11397a77f035053b5e1b356c5f675d11bd32">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Yixin-Moments-2.7.3_a14156c4634f331aba6607594d68cff0aa2a90c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f5bd925fe057b08a4e853c8e1491c2ece45f88d">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-2.7.3_0f42cf7d83af7ebfc584b03db1d6b7385919672b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dcdcf7aaaf3458d07d3d6c55f9737092ca4c93a1">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Moments-2.7.3_10514e72f8a61cfa03342d375e746d9976e5d707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-QQ-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b0cf5fd30cc1d9361cdbdfc19b2f93f0f8c7b772">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-QQ-2.7.3_d5ebd962f68668a82593bb51c49e6052d3b9a33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\gson-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="960a2c86c7974584a0dc0da7cf6983c510356e5f">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\gson-1.5_ac2bfc984b8213b1b33cb3340fa5aaf85f1e160b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Foursquare-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78aac9cb787d14fc5ad19ef5c050bc21cbdb6ba4">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Foursquare-2.7.3_f3f7743a9c669f83d50a6dc26514f286f2ff93e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Yixin-Core-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f5bba11ae85ab2349edaa6ca74e9b1b7e244a8e0">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Yixin-Core-2.7.3_1f7d9123c76f86dd7c08d6f2684a3fe02a22efda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Tumblr-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5a4312f7bd10c1b42775463be549c500075f9b26">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Tumblr-2.7.3_dbb1b7e78c5a7c760a58ef262c739bb6e1ae95b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Pinterest-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="13b12ae7b2e3ebc7ae248094609a272a28a2e566">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Pinterest-2.7.3_8ea52e3512ffed198b63c881e93fa0f9f48a6912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-KakaoTalk-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="71a56196a37c2e8e6326c2ce6be10aca740a68d1">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-KakaoTalk-2.7.3_6ef640370b0f52c213ee8b53266d3687f17ee527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Email-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7685aa89af37e575fc35c881b7aa688515647a40">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Email-2.7.3_c690e32c2d8886a63cf12a5760eb7ca96af3dd4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\butterknife-7.0.1_33c2eef1d37c9b576c90e7e59bd83ff3acf367f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lehua\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\okhttp-3.6.0_65ff951252ed0fa9efe4e8cc1cf0a500b965de65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Flickr-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09553d50fe8167952c4dbfab435646c206f2e2c6">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Flickr-2.7.3_0e098534545e7aadd7e46779cb7db19338449d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Pocket-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2b9439ec5378c968f5123fbe036e0997d6411b33">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Pocket-2.7.3_6e8263fed4b053cdb1ab26ba70ef09e8d8113253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Kakao-Core-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="43c9e56dd4169238b7a3d18dce7048d41f45509c">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Kakao-Core-2.7.3_ca7f2a7ae249ea5d7c647263b2ba596bbce51b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Evernote-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9567f67cd2812c75a9b9843299bd4431b7360719">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Evernote-2.7.3_e3b76006ddbf61b331a3fa4df4ad05956484deff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-FacebookMessenger-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b028f7284a1e62ec8cc12a9fd80a8a9824a2fcba">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-FacebookMessenger-2.7.3_91c5b2b50cc0efc3a3a61d542b66e877c77951bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Core-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3c32f16142ad19d03aa67beb8a69a93a4e66f94">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Core-2.7.3_e6f084f5812c20fa5c2fce4654e775077539c24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\MobCommons-2016.0623.1641.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="398ade3da1c6e9bc6bd0de7954780cab949420c7">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\MobCommons-2016.0623.1641_70f6480bea72095ee0dc6550fe3c557777fca81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lehua\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\glide-3.7.0_9b86fcc8ffa300bfa828f3fc9a2c13eaef39db37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\achartengine-1.1.0_993c8b2607f53b23d3a34d59b984c1257ce43827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3_19d0fe0e2847ae49347e1810b873a0e7403be03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\com.zzhoujay.markdown\markdown\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d53a5b5202729ab28ae7554d387f0f48b91a3c94">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\com.zzhoujay.markdown-markdown-1.0.0_0cc9544af6b000b685e43c77b6bc6b2971ba7f9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-YouDao-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8b294dee2bbbe3805040eee96651141aebfe3473">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-YouDao-2.7.3_88858ab22f169ff668b38e5fc6eb10b455de9983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\richtext\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1011b1282908db745a6bce3f2f99c82bffab021">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\android-support-v4_ec2d393025cd31020e89c605bde90311161e4027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8bc938afe7e140f7e270d158e44cf9938e70e1d">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\bugly_crash_release_6f4dd18fa3353b1a07b0b792ac57a2ff285b2862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lehua\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\okio-1.11.0_d5b3203a6a13b5632c0740fe2f35208a610329f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\application\Android\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_1c03a1c54f99803a0f8f41bc9d0c146d6e127949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Facebook-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fa236ccd97e92b4d63e6f9f12c4491db01f0386f">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Facebook-2.7.3_d8b9ac9ce40ab69e2e10467ae99c9fa7a52ee523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\richtext\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05e7709806336b2d521d4bcb1292ad75fd95d86f">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\elderbracelet1110-richtext-unspecified_c5083380d31bf46b546ea5971e5711b5e9a900be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Douban-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9554ed0faa2e103b589542b19d4710a4713e3f71">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Douban-2.7.3_0fe71c828768df5b165cb0850b5a2a851a96b6ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Wechat-Core-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88eb18662647f8a7d7e1f83235426cc0990cbab6">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Wechat-Core-2.7.3_6a91201fe50117dfe8611014d07de0870eb49b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\exploded-aar\elderbracelet1110\shareSDK\unspecified\jars\libs\ShareSDK-Dropbox-2.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="622ea0e0c1c165958197622efa578204b649320d">
+        <dex dex="G:\Android-projects\RuYiProject\elderbracelet1110\app\build\intermediates\pre-dexed\release\ShareSDK-Dropbox-2.7.3_646123d971df8e5f1733aa8c15d9e33f569a5b1e.jar" />
+    </item>
+
+</items>
